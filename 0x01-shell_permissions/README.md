@@ -1,0 +1,1 @@
+su betty === this command is to switch from current user to betty
