@@ -1,0 +1,1 @@
+0. To print a text on the standard output, we use the echo command
