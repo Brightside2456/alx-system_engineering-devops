@@ -1,0 +1,2 @@
+#!/bin/bash
+printf '%s\n'  "ibase=10; obase=$bestschool; $(($water#$WATER + $stir#STIR))"
