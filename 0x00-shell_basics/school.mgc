@@ -1,4 +1,4 @@
-0	string	SCHOOL	School data
-0 	ascii	-not SCHOOL	ASCII text
-0	ascii	 Data	data
-
+0       string  SCHOOL  School data file
+>0      string  VERSION Version information
+0       regex   \bSCHOOL\b    School text file
+0       regex   \bVersion\b   Version text file
