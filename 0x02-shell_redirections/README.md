@@ -1,0 +1,2 @@
+#**SHELL I/O REDIRECTIONS**#
+- To print a text to standart output - echo text
